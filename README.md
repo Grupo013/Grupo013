@@ -1,16 +1,26 @@
-### Hi there 👋
+<div> <img src="./github/logo2.png" alt="Header Logo" width="300px" /> </div>
 
-<!--
-**Grupo013/Grupo013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindos a Bem-Te-Vi ✨
 
-Here are some ideas to get you started:
+Somos alunos do Instituto Proa, cursando o ProProfissão 4.0 e estamos desenvolvendo esse projeto para impactar e ajudar a sociedade como um todo.
+Como tema do projeto, **Ajudar o Mercado Local**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="./github/passaro-yellow.gif" width="400px"/>
+</p>
+
+## Integrantes do Projeto 👥
+- Ana Carolina Oliveira dos Santos;
+- Gabriel Henrique Gonçalves;
+- Guilherme Gomes Bravo;
+- Isabella Alves de Queiroz Moura;
+- João Victor Soares Dias;
+- Lucas de Carvalho Cabaleiro;
+- Lucas Eduardo Lisboa Freitas Rocha;
+- Luís Gabriel da Silva;
+
+# Tudo isso só foi possível por causa do Instituto Proa 💙
+
+<p align="center">
+<img src="./github/logo-proa" width="400px"/>
+</p>
