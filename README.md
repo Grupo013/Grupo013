@@ -10,17 +10,17 @@ Como tema do projeto, **Ajudar o Mercado Local**.
 </p>
 
 ## Integrantes do Projeto 👥
-- Ana Carolina Oliveira dos Santos;
-- Gabriel Henrique Gonçalves;
-- Guilherme Gomes Bravo;
+- Ana Carolina Oliveira dos Santos; [Github](https://github.com/AnaCarolina6926)
+- Gabriel Henrique Gonçalves; [Github](https://github.com/Gabriel-Goncalves382)
+- Guilherme Gomes Bravo; [Github](https://github.com/guilherme-bravo)
 - Isabella Alves de Queiroz Moura;
-- João Victor Soares Dias;
-- Lucas de Carvalho Cabaleiro;
+- João Victor Soares Dias; [Github](https://github.com/Joo-Dias)
+- Lucas de Carvalho Cabaleiro; [Github](https://github.com/olucas07)
 - Lucas Eduardo Lisboa Freitas Rocha;
 - Luís Gabriel da Silva;
 
-# Tudo isso só foi possível por causa do Instituto Proa 💙
+## Tudo isso só foi possível por causa do Instituto Proa 💙
 
 <p align="center">
-<img src="./github/logo-proa" width="400px"/>
+<img src="./github/logo-proa.png" width="400px"/>
 </p>
