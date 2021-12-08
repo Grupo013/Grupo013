@@ -13,7 +13,7 @@ Como tema do projeto, **Ajudar o Mercado Local**.
 - Ana Carolina Oliveira dos Santos; [Github](https://github.com/AnaCarolina6926)
 - Gabriel Henrique Gonçalves; [Github](https://github.com/Gabriel-Goncalves382)
 - Guilherme Gomes Bravo; [Github](https://github.com/guilherme-bravo)
-- Isabella Alves de Queiroz Moura;
+- Isabella Alves de Queiroz Moura; [Github](https://github.com/IsabellaMoura)
 - João Victor Soares Dias; [Github](https://github.com/Joo-Dias)
 - Lucas de Carvalho Cabaleiro; [Github](https://github.com/olucas07)
 - Lucas Eduardo Lisboa Freitas Rocha;
